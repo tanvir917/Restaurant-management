@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello from tanvir and i edited the file.
+=======
+Hello from tanvir and i edited this.hello from br2 tanvir917 version 2
+>>>>>>> 7f7ad51da702c9748440611eb849ff970eeac83b
